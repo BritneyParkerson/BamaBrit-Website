@@ -379,4 +379,164 @@ button{
     border-top: 2px dotted black;
     
 }
+/*About CSS*/
 
+.ab-container {
+    width: 920px;
+    margin: 0 auto;
+    background: linear-gradient(to left, #977df5 0%, rgb(77, 38, 119) 29%, rgb(243, 44, 110) 67%, #FFF800 100%);
+}
+
+/*Pagea Under Construction*/
+#Construction-container {
+    background-image: linear-gradient(50deg, #1d1c1f 0%, #646a6b 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #Construction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
+  /*About*/
+  #AConstruction-container {
+    background-image: linear-gradient(50deg, #290f5e 0%, #56909b 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #AConstruction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
+
+  #PeConstruction-container {
+    background-image: linear-gradient(50deg, #bb2f05 0%, #be9628 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #PeConstruction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
+
+  #FConstruction-container {
+    background-image: linear-gradient(50deg, #c5236f 0%, #f1a9cb 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #FConstruction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
+
+  #WConstruction-container {
+    background-image: linear-gradient(50deg, #084608 0%, #77f047 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #WConstruction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
+
+  #PhConstruction-container {
+    background-image: linear-gradient(50deg, #520202 0%, #fd5050 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #PhConstruction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
+
+  #BoConstruction-container {
+    background-image: linear-gradient(50deg, #2b033d 0%, #cb77fc 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #Construction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
+
+  #BlConstruction-container {
+    background-image: linear-gradient(50deg, #5e6405 0%, #fbff00 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #BlConstruction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
+
+  #CConstruction-container {
+    background-image: linear-gradient(50deg, #027896 0%, #91fbff 100%);
+    width: 920px;
+    margin: auto;
+  }
+  
+  #CConstruction-container #footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .Under-Construction-img {
+    margin: auto;
+    padding: 35px;
+  }
